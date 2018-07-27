@@ -37,8 +37,13 @@ header {
   color:#ebebeb;
   background: #777;
 }
+.section {
+  width: 495px;
+  height: 400px;
+  background: #ebebeb;
+}
 .aside {
-  width: 400px;
+  width: 445x;
   height: 400px;
   background: #ebebeb;
 }
@@ -57,11 +62,7 @@ a, a:hover
 a:hover
 { text-decoration: none;}
 
-.section {
-  width: 495px;
-  height: 400px;
-  background: #ebebeb;
-}
+
 
 .left
 { float: left;
