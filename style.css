@@ -65,10 +65,9 @@ a:hover
 
 .right
 { float: right; 
- 
   margin-left: 10px;}
 
-.center
+
 { display: block;
   text-align: center;
   margin: 20px auto;}
