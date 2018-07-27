@@ -38,9 +38,9 @@ header {
   background: #777;
 }
 .aside {
-  color:#ebebeb;
-  background: #777;
-  width: 224px;
+  width: 400px;
+  height: 400px;
+  background: #ebebeb;
 }
 
 h5, h6
