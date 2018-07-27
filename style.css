@@ -9,7 +9,6 @@ body
   font-size: 18px;
   background: #777;
   color: #777;
-  
 }   
 p
 { padding: 0 0 20px 0;
@@ -37,6 +36,11 @@ header {
 .article {
   color:#ebebeb;
   background: #777;
+}
+.aside {
+  color:#ebebeb;
+  background: #777;
+  width: 224px;
 }
 
 h5, h6
@@ -67,7 +71,7 @@ a:hover
 { float: right; 
   margin-left: 10px;}
 
-
+.center
 { display: block;
   text-align: center;
   margin: 20px auto;}
