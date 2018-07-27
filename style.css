@@ -8,12 +8,14 @@ html
 body
 { 
   display: inline-block;
-  margin: 0px auto;
+  width:80%;
+        margin-left:auto;
+        margin-right:auto;
   text-align: center;
   font: normal .80em 'trebuchet ms', arial, sans-serif;
   background: #FFF;
   color: #555;
-  width:950px;
+  
 }   
 
 p
