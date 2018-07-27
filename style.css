@@ -13,6 +13,7 @@ body
   font: normal .80em 'trebuchet ms', arial, sans-serif;
   background: #FFF;
   color: #555;
+  width:950px;
 }   
 
 p
@@ -41,7 +42,7 @@ h3
   padding: 5px 0 0 0;}
 
 header, nav, footer {
-padding:20px
+padding:20px;
 
 }
 h4, h6
