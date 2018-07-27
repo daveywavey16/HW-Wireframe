@@ -43,11 +43,10 @@ header {
   background: #ebebeb;
 }
 .aside {
-  width: 445x;
+  width: 445px;
   height: 400px;
   background: #ebebeb;
 }
-
 h5, h6
 { color: #888;
   font: normal 95% arial;
