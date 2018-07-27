@@ -29,6 +29,9 @@ header, nav, footer, section, aside {
   margin-left: auto;
   margin-right: auto;
 }
+header {
+  height:100px;
+}
 .article {
   color:#ebebeb;
   background: #777;
