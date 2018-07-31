@@ -33,6 +33,18 @@ header {
 .article {
   color:#ebebeb;
   background: #777;
+  padding: 20px;
+  margin: 20px;
+}
+.article h1 {
+	color:#ebebeb;
+	background:none;
+}
+.poop h1, .poop p {
+	background-color:#ebebeb;
+	color: #777;
+	padding:10px;
+	margin:10px;
 }
 .section {
   width: 495px;
@@ -57,9 +69,6 @@ a, a:hover
 
 a:hover
 { text-decoration: none;}
-
-
-
 .left
 { float: left;
   margin-right: 10px;}
@@ -73,8 +82,7 @@ a:hover
   text-align: center;
   margin: 20px auto;}
 
-
-#site_content
+  #site_content
 { width: 880px;
   overflow: hidden;
   margin: 20px auto 0 auto;
